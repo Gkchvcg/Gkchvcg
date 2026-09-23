@@ -1,648 +1,370 @@
-
 <div align="center">
 
 <!-- ========================================================= -->
 <!--                         HERO                              -->
 <!-- ========================================================= -->
 
-<img src="./assets/ylia-hero-8k.jpg"
-     width="100%"
-     alt="Your Lie in April - Kousei Arima and Kaori Miyazono">
+<img src="./assets/ylia-hero-8k.jpg" width="100%" alt="Your Lie in April - Cinematic Hero">
 
 <br><br>
 
 # MAROOF HUSAIN
-
-### `Computer Science Student` · `Problem Solver` · `Builder`
+### `< Computer Science Student />` · `< Problem Solver />` · `< Builder />`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=F5B7C7&center=true&vCenter=true&width=900&lines=DSA+%C3%97+Mathematics+%C3%97+Engineering;400%2B+LeetCode+Problems;Building+AI+Powered+Systems;Learning+System+Design;Turning+Ideas+Into+Software;Code+%C3%97+Music+%C3%97+Mathematics"
-     alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=800&color=F5B7C7&center=true&vCenter=true&width=600&lines=DSA+%C3%97+Mathematics+%C3%97+Engineering;400%2B+LeetCode+Problems;Building+AI+Powered+Systems;Learning+System+Design;Turning+Ideas+Into+Software;Code+%C3%97+Music+%C3%97+Mathematics" alt="Typing Animation">
 
 <br><br>
 
-<!-- SOCIAL LINKS -->
+<!-- ========================================================= -->
+<!--                     SOCIAL LINKS                          -->
+<!-- ========================================================= -->
 
 <a href="https://github.com/Gkchvcg">
-<img src="https://img.shields.io/badge/GitHub-Gkchvcg-0D1117?style=for-the-badge&logo=github&logoColor=F5B7C7">
+  <img src="https://img.shields.io/badge/GitHub-Gkchvcg-0D1117?style=for-the-badge&logo=github&logoColor=F5B7C7">
 </a>
-
 <a href="https://www.linkedin.com/in/maroof-husain-arima/">
-<img src="https://img.shields.io/badge/LinkedIn-Maroof%20Husain-0D1117?style=for-the-badge&logo=linkedin&logoColor=F5B7C7">
+  <img src="https://img.shields.io/badge/LinkedIn-Maroof%20Husain-0D1117?style=for-the-badge&logo=linkedin&logoColor=7DD3FC">
 </a>
-
 <a href="https://leetcode.com/u/MaroofHusain/">
-<img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116">
-</a>
-
-<br>
-
-<a href="https://github.com/Gkchvcg?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F5B7C7">
+  <img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Gkchvcg&style=for-the-badge&color=F5B7C7&label=PROFILE+VIEWS">
+<a href="https://github.com/Gkchvcg?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-0D1117?style=for-the-badge&logo=github&logoColor=F5B7C7">
+</a>
+<img src="https://komarev.com/ghpvc/?username=Gkchvcg&style=for-the-badge&color=B794F4&label=PROFILE+VIEWS">
+
+<br><br>
+
+<img src="./assets/kaori-kousei-8k.jpg" width="100%" alt="Kaori and Kousei">
 
 </div>
 
 ---
 
-# 🎼 CODE × MUSIC × MATHEMATICS
-
 <div align="center">
 
-<img src="./assets/kaori-violin-4k.jpg"
-     width="48%"
-     alt="Kaori Miyazono">
+## 🧠 ABOUT ME
 
-<img src="./assets/kousei-piano-4k.jpg"
-     width="48%"
-     alt="Kousei Arima">
+I am a Computer Science student driven by the desire to build resilient, elegant systems. My technical interests sit around:
+
+**Algorithms** · **Data Structures** · **Mathematics** · **Software Engineering** · **System Design**<br>
+**Artificial Intelligence** · **Machine Learning** · **Data Analytics** · **Full Stack Development** · **Blockchain / Web3**
+
+> *"I prefer understanding why things work rather than simply memorizing how to use them."*
 
 </div>
 
 <br>
-                   MAROOF HUSAIN
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-        CODE           MATH           MUSIC
-          │              │              │
-          ▼              ▼              ▼
-       LOGIC          PRECISION       RHYTHM
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                         ▼
-                    ENGINEERING
 
-I enjoy understanding how things work underneath the abstraction.
+<div align="center">
+<img src="./assets/ylia-cherry-blossoms-4k.jpg" width="100%" alt="Cherry Blossoms">
+</div>
 
-My interests sit around:
+---
 
-Algorithms
-Data Structures
-Mathematics
-Software Engineering
-System Design
-Artificial Intelligence
-Machine Learning
-Data Analytics
-Full Stack Development
-Blockchain / Web3
-🧠 ABOUT ME
-
-I'm a Computer Science student focused on becoming a stronger engineer through:
-
-Problem Solving
-      ↓
-Mathematical Thinking
-      ↓
-Software Engineering
-      ↓
-System Design
-      ↓
-Artificial Intelligence
-      ↓
-Real-World Projects
-
-I prefer understanding the reasoning behind a solution rather than simply memorizing an implementation.
-
-🧩 PROBLEM SOLVING
-<div align="center"> <img src="https://img.shields.io/badge/400%2B-LeetCode%20Problems-F5B7C7?style=for-the-badge&logo=leetcode&logoColor=0D1117"> <img src="https://img.shields.io/badge/DSA-Continuous%20Practice-0D1117?style=for-the-badge&logo=thealgorithms&logoColor=F5B7C7"> </div> <br>
-Core DSA Patterns
-Category	Patterns
-Arrays	Prefix Sum · Difference Array
-Strings	KMP · Z Algorithm · Hashing
-Two Pointers	Opposite Direction · Same Direction
-Sliding Window	Fixed · Variable
-Binary Search	Search Space · Bounds · Answer
-Stack	Monotonic Stack · Next Greater
-Queue	BFS · Deque
-Linked List	Fast/Slow Pointer · Reversal
-Trees	DFS · BFS · Recursion
-Graphs	BFS · DFS · Dijkstra · DSU
-Dynamic Programming	1D · 2D · Knapsack · LCS
-Greedy	Intervals · Scheduling
-Backtracking	Permutations · Combinations · Subsets
-Bit Manipulation	XOR · Masks · Bit DP
-Heaps	Top-K · Priority Queue
-🧮 MATHEMATICS
 <div align="center">
 
-<img src="./assets/math-yilia-4k.jpg" width="85%" alt="Your Lie in April inspired mathematical aesthetic">
+## 🎼 CODE × MUSIC × MATHEMATICS
+
+<br>
+
+<img src="./assets/ylia-piano-5k.jpg" width="80%" alt="Piano Aesthetic">
+
+<br><br>
+
+**Logic** ➜ Structure<br>
+**Mathematics** ➜ Precision<br>
+**Music** ➜ Rhythm<br>
+**Engineering** ➜ Systems
 
 </div>
-Areas I'm Studying
-ALGEBRA
-├── Equations
-├── Inequalities
-├── Functions
-├── Sequences
-├── Logarithms
-└── Coordinate Geometry
 
-COMBINATORICS
-├── Permutations
-├── Combinations
-├── Counting
-├── Inclusion / Exclusion
-└── Pigeonhole Principle
+---
 
-PROBABILITY
-├── Conditional Probability
-├── Bayes Theorem
-├── Expected Value
-└── Random Variables
-
-NUMBER THEORY
-├── Prime Numbers
-├── GCD / LCM
-├── Modular Arithmetic
-├── Sieve
-└── Diophantine Equations
-
-DISCRETE MATHEMATICS
-├── Graph Theory
-├── Sets
-├── Relations
-├── Logic
-└── Recurrences
-Some formulas I keep close
-$$ \gcd(a,b)=\gcd(b,a\bmod b) $$ $$ \binom{n}{r}=\frac{n!}{r!(n-r)!} $$ $$ P(A|B)=\frac{P(A\cap B)}{P(B)} $$ $$ E[X]=\sum_x xP(X=x) $$ $$ a^2+b^2=c^2 $$
-🛠️ COMPLETE TECHNOLOGY STACK
-💻 Programming Languages
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,sql&theme=dark"> </div> <br>
-Technology	Usage
-Java	DSA · OOP · Backend
-Python	AI · ML · Data Analytics
-JavaScript	Web Development
-C	Programming Fundamentals
-C++	Algorithms · Competitive Programming
-SQL	Databases · Analytics
-🌐 FRONTEND
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,redux,bootstrap&theme=dark"> </div>
-Technologies
-HTML
-CSS
-JavaScript
-React
-Angular
-Redux
-Bootstrap
-jQuery
-⚙️ BACKEND
-<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring&theme=dark"> </div>
-Technologies
-Node.js
-Express.js
-Django
-Flask
-Spring Boot
-Ruby on Rails
-🗄️ DATABASES
-<div align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark"> </div>
-Technologies
-MongoDB
-MySQL
-PostgreSQL
-SQL
-🤖 AI / ML
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"> </div>
-Technologies / Concepts
-Python
-│
-├── NumPy
-├── Pandas
-├── Matplotlib
-├── TensorFlow
-├── PyTorch
-│
-├── LLMs
-├── Llama
-├── BLIP
-├── Computer Vision
-├── NLP
-└── AI Agents
-📊 DATA ANALYTICS
-Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=python&theme=dark"> </div> <br> <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-0D1117?style=for-the-badge&logo=pandas&logoColor=150458"> <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF"> <img src="https://img.shields.io/badge/Matplotlib-Visualization-0D1117?style=for-the-badge">
-Projects
-Customer Churn Analysis
-Movie Recommendation System
-Retail Sales Intelligence
-🏗️ SYSTEM DESIGN
 <div align="center">
 
-<img src="./assets/system-design-ylia-4k.jpg" width="85%" alt="System design inspired visual">
+## 🧩 DATA STRUCTURES & ALGORITHMS
+
+<img src="https://img.shields.io/badge/400%2B-LeetCode%20Problems-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116">
+<br><br>
+
+| Core Concepts | Advanced Patterns | Trees & Graphs | DP & Optimization |
+|:---:|:---:|:---:|:---:|
+| Arrays & Strings | Prefix Sum & Diff Array | Binary Trees | 1D & 2D DP |
+| Two Pointers | Monotonic Stack | Graph Traversals (BFS/DFS) | Greedy Algorithms |
+| Sliding Window | Deque & Heaps | Dijkstra's Algorithm | Backtracking |
+| Binary Search | KMP & Z Algorithm | DSU (Disjoint Set) | Bit Manipulation |
+| Linked Lists | Hashing & Intervals | Shortest Paths | Subsets & Permutations |
 
 </div>
-Concepts
-                         SYSTEM DESIGN
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-        ARCHITECTURE       DATABASES        NETWORKING
-             │                │                │
-             ▼                ▼                ▼
-       Microservices        SQL/NoSQL       REST APIs
-       Monolith             Caching         Load Balancers
-       Event Driven         Replication     CDN
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                         SCALABILITY
-                              │
-                              ▼
-                         RELIABILITY
-Currently Studying
-System Architecture
-Scalability
-Load Balancing
-Caching
-Database Design
-Replication
-Sharding
-Message Queues
-REST APIs
-Microservices
-Distributed Systems
-CAP Theorem
-Consistency
-Fault Tolerance
-☕ JAVA × OOP
-<div align="center"> <img src="https://skillicons.dev/icons?i=java&theme=dark"> </div>
-Object-Oriented Programming
-                 OBJECT ORIENTED PROGRAMMING
-                              │
-        ┌─────────────────────┼─────────────────────┐
-        │                     │                     │
-        ▼                     ▼                     ▼
- ENCAPSULATION           INHERITANCE          POLYMORPHISM
-        │                     │                     │
-        └─────────────────────┼─────────────────────┘
-                              │
-                              ▼
-                         ABSTRACTION
-Java Topics
-Classes & Objects
-Constructors
-Encapsulation
-Inheritance
-Polymorphism
-Abstraction
-Interfaces
-Generics
-Collections
-Exception Handling
-Multithreading
-JVM Fundamentals
-Memory Management
-🔗 DEVELOPER TOOLS
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,idea,eclipse&theme=dark"> </div> <br>
-Tool	Usage
-Git	Version Control
-GitHub	Code Hosting
-Docker	Containerization
-Jenkins	CI/CD
-Travis CI	Continuous Integration
-VS Code	Development
-PyCharm	Python Development
-Eclipse	Java Development
-IntelliJ IDEA	Java Development
-JIRA	Project Management
-🔐 WEB3 × BLOCKCHAIN
-<div align="center"> <img src="https://skillicons.dev/icons?i=solidity&theme=dark"> </div>
-Technologies
-Solidity
-Smart Contracts
-Blockchain
-Web3
-Decentralized Applications
-Token-based Payments
-POL
-USDC
-🚀 FEATURED PROJECT
-🌐 DataKart
-The Global Data Aggregation Engine
+
+<br>
+
 <div align="center">
+<img src="./assets/kousei-piano-4k.jpg" width="100%" alt="Kousei Piano">
+</div>
+
+---
+
+<div align="center">
+
+## 🧮 MATHEMATICS
+
+</div>
+
+Mathematics forms the foundational logic behind algorithm optimization and system modeling. Areas I am continuously studying include:
+
+<div align="center">
+
+| Algebra & Calculus | Probability & Stats | Number Theory & Logic |
+|:---:|:---:|:---:|
+| Functions & Sequences | Conditional Probability | GCD / LCM & Sieve |
+| Inequalities & Logarithms | Bayes Theorem | Modular Arithmetic |
+| Combinatorics (nCr, nPr) | Expected Value | Graph Theory |
+| Recurrence Relations | Random Variables | Prime Numbers |
+
+<br>
+
+**Useful Formulas:**
+
+$$ \gcd(a,b) = \gcd(b, a \bmod b) $$
+$$ \binom{n}{r} = \frac{n!}{r!(n-r)!} $$
+$$ P(A|B) = \frac{P(A \cap B)}{P(B)} $$
+$$ E[X] = \sum xP(X=x) $$
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="./assets/kaori-violin-4k.jpg" width="100%" alt="Kaori Violin">
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ COMPLETE TECHNOLOGY STACK
+
+<br>
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,sql&theme=dark" alt="Languages">
+
+### 🌐 Frontend & UI
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,redux,bootstrap,jquery&theme=dark" alt="Frontend">
+
+### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,rails&theme=dark" alt="Backend">
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Databases">
+
+### 🤖 AI / ML & Data Analytics
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,bash&theme=dark" alt="AI">
+<br>
+<img src="https://img.shields.io/badge/Llama-AI-0D1117?style=for-the-badge&logoColor=F5B7C7">
+<img src="https://img.shields.io/badge/BLIP-Vision-0D1117?style=for-the-badge&logoColor=F5B7C7">
+<img src="https://img.shields.io/badge/Pandas-Data-0D1117?style=for-the-badge&logoColor=F5B7C7">
+<img src="https://img.shields.io/badge/NumPy-Math-0D1117?style=for-the-badge&logoColor=F5B7C7">
+<img src="https://img.shields.io/badge/Matplotlib-Viz-0D1117?style=for-the-badge&logoColor=F5B7C7">
+<br>
+*Computer Vision · NLP · AI Agents · Recommendation Systems*
+
+### 🔗 Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,idea,eclipse&theme=dark" alt="Tools">
+<br>
+*JIRA · Travis CI · PyCharm*
+
+### 🔐 Blockchain / Web3
+<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="Web3">
+<br>
+*Smart Contracts · POL · USDC*
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="./assets/ylia-piano.jpg" width="100%" alt="Cinematic Piano Notes">
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 FEATURED PROJECT: DataKart
+### *"The Global Data Aggregation Engine"*
+
+DataKart is a decentralized, AI-powered data marketplace designed for data discovery, verification, and exchange.
+
+<br>
 
 <img src="./assets/datakart-architecture.png" width="90%" alt="DataKart Architecture">
 
-</div>
-
-DataKart is a decentralized, AI-powered marketplace designed around data discovery, enrichment and exchange.
-
-🧠 AI ENGINE
-                         DATAKART AI
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-          LLAMA             BLIP            AI GUARD
-             │                │                │
-             ▼                ▼                ▼
-       Matchmaking        Vision AI       Safety Layer
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                         Smart Dataset
-Features
-Llama-powered Karty AI Assistant
-AI matchmaking
-BLIP Vision AI
-Automated image tagging
-Metadata extraction
-AI Data Guard
-NSFW detection
-Duplicate prevention
-🔍 DATA PROCESSING
-Raw Dataset
-     │
-     ▼
-Metadata Extraction
-     │
-     ▼
-AI Analysis
-     │
-     ▼
-Image / Content Detection
-     │
-     ▼
-pHash Duplicate Detection
-     │
-     ▼
-Structured Dataset
-     │
-     ▼
-Marketplace
-⛓️ BLOCKCHAIN LAYER
-Seller
-  │
-  ▼
-Dataset
-  │
-  ▼
-DataKart Marketplace
-  │
-  ▼
-Smart Contract
-  │
-  ├── POL
-  │
-  └── USDC
-  │
-  ▼
-Seller Payout
-🤖 AI PROJECTS & IDEAS
-Autonomous Research Agent
-
-Research automation using AI agents capable of gathering, processing and synthesizing information.
-
-AI Fact-Checking Platform
-
-An AI-driven platform for analyzing claims and comparing them against available evidence.
-
-AI Medical Assistant
-
-An educational AI system exploring conversational interfaces for medical information.
-
-Fake News Detector
-
-Machine learning based classification of potentially misleading information.
-
-Recommendation Systems
-
-Data-driven recommendation engines using user and item information.
-
-📈 DATA PIPELINE
-                 DATA
-                  │
-                  ▼
-             COLLECTION
-                  │
-                  ▼
-              CLEANING
-                  │
-                  ▼
-                 EDA
-                  │
-                  ▼
-             STATISTICS
-                  │
-                  ▼
-            VISUALIZATION
-                  │
-                  ▼
-            MACHINE LEARNING
-                  │
-                  ▼
-               INSIGHT
-🎻 YOUR LIE IN APRIL
-<div align="center">
-
-<img src="./assets/ylia-piano-5k.jpg" width="100%" alt="Kousei Arima and Kaori Miyazono piano scene">
-
-<br><br>
-
-<img src="./assets/ylia-cherry-blossoms-4k.jpg" width="48%" alt="Kousei and Kaori cherry blossoms">
-
-<img src="./assets/ylia-violin-4k.jpg" width="48%" alt="Kaori Miyazono violin">
-
-</div> <br>
-Kousei Arima
-
-The pianist.
-
-The algorithm.
-
-The precision.
-
-Kaori Miyazono
-
-The violinist.
-
-The unpredictability.
-
-The expression.
-
-And somewhere between them:
-
-          STRUCTURE
-              ×
-          CREATIVITY
-              ×
-           CHAOS
-              ×
-           BEAUTY
-
-That combination is also what makes engineering interesting.
-
-🎹 CODE AS MUSIC
-<div align="center">
-
-<img src="./assets/ylia-performance-5k.jpg" width="85%" alt="Your Lie in April musical performance">
-
-</div> <br>
-Algorithm
-   ↓
-Pattern
-   ↓
-Rhythm
-   ↓
-Optimization
-   ↓
-Elegance
-
-Good code should not merely work.
-
-It should have structure.
-
-📚 LEARNING MAP
-                         COMPUTER SCIENCE
-                                │
-         ┌──────────────────────┼──────────────────────┐
-         │                      │                      │
-         ▼                      ▼                      ▼
-        DSA                  SYSTEMS                  AI
-         │                      │                      │
-         ▼                      ▼                      ▼
-     Algorithms            Architecture              ML
-         │                      │                      │
-         ▼                      ▼                      ▼
-     Mathematics            Databases                 LLMs
-         │                      │                      │
-         └──────────────────────┼──────────────────────┘
-                                │
-                                ▼
-                         SOFTWARE ENGINEERING
-                                │
-                                ▼
-                           REAL PROJECTS
-📊 GITHUB ACTIVITY
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Gkchvcg&theme=dark&hide_border=true&background=0D1117&ring=F5B7C7&fire=F5B7C7&currStreakLabel=F5B7C7&sideLabels=FFFFFF&dates=888888" width="800" alt="GitHub Contribution Streak">
-
-<br><br>
-
-<a href="https://github.com/Gkchvcg?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=F5B7C7"> </a> </div>
-🎯 CURRENT FOCUS
-<div align="center"> <table> <tr> <td align="center" width="25%">
-🧠 DSA
-
-Arrays
-DP
-Graphs
-Greedy
-Recursion
-Backtracking
-
-</td> <td align="center" width="25%">
-Σ MATH
-
-Algebra
-Probability
-Combinatorics
-Number Theory
-Graph Theory
-
-</td> <td align="center" width="25%">
-🏗️ SYSTEMS
-
-Architecture
-Databases
-Scalability
-Distributed Systems
-OOP
-
-</td> <td align="center" width="25%">
-🤖 AI
-
-Agents
-ML
-Computer Vision
-LLMs
-Data Analytics
-
-</td> </tr> </table> </div>
-🧭 ENGINEERING MINDSET
-              UNDERSTAND
-                   │
-                   ▼
-                MODEL
-                   │
-                   ▼
-              BREAK DOWN
-                   │
-                   ▼
-              FIND PATTERN
-                   │
-                   ▼
-             DESIGN SOLUTION
-                   │
-                   ▼
-              IMPLEMENT
-                   │
-                   ▼
-                 TEST
-                   │
-                   ▼
-               OPTIMIZE
-                   │
-                   ▼
-                LEARN
-                   │
-                   └───────────────┐
-                                   │
-                                   ▼
-                              NEXT PROBLEM
-💭 PHILOSOPHY
-<div align="center">
-Learn deeply.
-Build relentlessly.
-Question assumptions.
-Understand fundamentals.
-Let the results speak.
 <br>
 
-The goal isn't simply to solve problems.
-
-The goal is to become capable of recognizing them.
-
 </div>
-🌸 ONE LAST FRAME
+
+**Core Features & Systems:**
+- **AI Processing Engine:** Powered by Llama for AI matchmaking and Karty AI Assistant.
+- **Vision AI:** Uses BLIP for automated image tagging and metadata extraction.
+- **AI Data Guard:** Implements pHash duplicate prevention and NSFW detection to secure the marketplace.
+- **Web3 Ecosystem:** Handles decentralized marketplace transactions via Smart Contracts with POL and USDC payouts.
+
+---
+
 <div align="center">
 
-<img src="./assets/ylia-final-8k.jpg" width="100%" alt="Your Lie in April final aesthetic">
+## 🤖 ARTIFICIAL INTELLIGENCE & DATA ANALYTICS
+
+<br>
+
+**AI / ML Projects & Concepts Explored:**
+- Autonomous Research Agent
+- AI Fact-Checking Platform
+- AI Medical Assistant
+- Fake News Detector
+- Recommendation Systems
+
+<br>
+
+**Data Analytics Focus:**
+- Data Collection · Data Cleaning · EDA · Statistics · Visualization
+- Regression Modeling · Machine Learning Data Pipelines
+- Customer Churn Analysis · Retail Sales Intelligence · Movie Recommendation System
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="./assets/kaori-violin.jpg" width="100%" alt="Cinematic Violin">
+</div>
+
+---
+
+<div align="center">
+
+## 🏗️ SYSTEM DESIGN & OOP
+
+</div>
+
+**System Architecture & Design:**
+Scalability · Reliability · Monolith vs Microservices · Load Balancing · Caching · CDN · Database Replication & Sharding · Message Queues · REST APIs · Distributed Systems · CAP Theorem · Consistency & Fault Tolerance
+
+<br>
+
+<div align="center">
+
+```mermaid
+graph TD;
+    OOP[Object-Oriented Programming] --> Encapsulation;
+    OOP --> Inheritance;
+    OOP --> Polymorphism;
+    OOP --> Abstraction;
+```
+
+</div>
+
+**Java / OOP Expertise:**
+Classes & Objects · Interfaces & Generics · Collections Framework · Exception Handling · Multithreading · JVM Internals · Memory Management
+
+<br>
+
+<div align="center">
+<img src="./assets/ylia-violin-4k.jpg" width="100%" alt="Violin Close Up">
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB ACTIVITY
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Gkchvcg&theme=dark&hide_border=true&background=0D1117&ring=F5B7C7&fire=F5B7C7&currStreakLabel=F5B7C7&sideLabels=FFFFFF&dates=888888" width="800" alt="GitHub Streak">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 CURRENT FOCUS
+
+| 🧠 DSA | Σ MATHEMATICS | 🏗️ SYSTEMS | 🤖 AI / ML |
+|:---:|:---:|:---:|:---:|
+| Patterns & Logic | Algebra | Architecture | AI Agents |
+| Dynamic Programming | Probability | Databases | Machine Learning |
+| Graph Algorithms | Combinatorics | Scalability | Computer Vision |
+| Greedy Algorithms | Number Theory | Distributed Systems | LLMs & NLP |
+| Recursion | Graph Theory | OOP Paradigms | Data Analytics |
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="./assets/ylia-performance-5k.jpg" width="100%" alt="Epic Performance Stage">
+</div>
+
+---
+
+<div align="center">
+
+## 🧭 ENGINEERING MINDSET
+
+**UNDERSTAND** ➜ **MODEL** ➜ **BREAK DOWN** ➜ **FIND PATTERN** ➜ **DESIGN** ➜ **IMPLEMENT** ➜ **TEST** ➜ **OPTIMIZE** ➜ **LEARN**
+
+<br>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- ========================================================= -->
+<!--                         FINAL                             -->
+<!-- ========================================================= -->
+
+<img src="./assets/ylia-final-8k.jpg" width="100%" alt="Your Lie in April - Final Frame">
 
 <br><br>
 
-Code × Mathematics × Music × Engineering
-<br>
+### `Code × Mathematics × Music × Engineering`
+
+```java
 while (alive) {
-
     learn();
     build();
     fail();
     debug();
     improve();
-
 }
-<br> <img src="https://img.shields.io/badge/MADE%20WITH-COFFEE%20%26%20CURIOSITY-0D1117?style=for-the-badge&logoColor=F5B7C7">
+```
 
 <br><br>
 
-<a href="https://github.com/Gkchvcg"> <img src="https://img.shields.io/badge/GitHub-Gkchvcg-F5B7C7?style=for-the-badge&logo=github&logoColor=0D1117"> </a> <a href="https://www.linkedin.com/in/maroof-husain-arima/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=F5B7C7"> </a> <a href="https://leetcode.com/u/MaroofHusain/"> <img src="https://img.shields.io/badge/LeetCode-400%2B-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"> </a>
+<a href="https://github.com/Gkchvcg">
+  <img src="https://img.shields.io/badge/GitHub-Gkchvcg-0D1117?style=for-the-badge&logo=github&logoColor=F5B7C7">
+</a>
+<a href="https://www.linkedin.com/in/maroof-husain-arima/">
+  <img src="https://img.shields.io/badge/LinkedIn-Maroof%20Husain-0D1117?style=for-the-badge&logo=linkedin&logoColor=7DD3FC">
+</a>
+<a href="https://leetcode.com/u/MaroofHusain/">
+  <img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116">
+</a>
 
 <br><br>
 
-🌸 Keep learning. Keep building.
-</div> ```
+*Keep learning. Keep building.*
+
+</div>
